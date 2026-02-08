@@ -1,3 +1,3 @@
-name: Snapcast Server + librespot addon for HA
+name: Snapcast Server + librespot addon for HA (Fork)
 url: https://github.com/rwjack/addon-snapserver-librespot/
-maintainer: Jack <jack@foss.family>
+maintainer: Robert
